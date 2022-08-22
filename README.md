@@ -1,1 +1,3 @@
-<a href="heinezo.github.io" target="_blank" align="center"><img src="home.png"></a>
+<p align="center">
+  <a href="www.heinezo.github.io" target="_blank"><img src="home.png"></a>
+ </p>
