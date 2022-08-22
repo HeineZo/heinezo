@@ -1,2 +1,1 @@
-<h1 align="center">Salut 👋 </h1>
-<h2 align="right"> Non </h2>
+<a href="heinezo.github.io" target="_blank" align="center"><img src="home.png"></a>
